@@ -1,0 +1,2 @@
+# SARS_COV_2-Clust
+This work emerges within the context of the current Covid-19 epidemic and thus it is principally meant to contribute into understanding SARS-COV-2 mutation behavior and retrieve possible SARS-COV-2 types based on collected sequences from NCBI. Thus, limiting its spread in all over the world, by providing a Genomics tool that we believe it will answer relevant questions regarding SARS-COV-2 evolution.
